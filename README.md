@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS,and Python
 - 💞️ I’m looking to collaborate on Back End Developer
-- 📫 How to reach me? you can contact me via email: rifqi.widhiantoro01@gmail.com
+- 📫 How to contact me? you can contact me via email: rifqi.widhiantoro01@gmail.com
 
 <!---
 RifqiWidhiantoro/RifqiWidhiantoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
